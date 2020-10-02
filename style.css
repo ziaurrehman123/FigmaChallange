@@ -1,4 +1,6 @@
-
+body{
+    margin: 0;
+}
 .content h1 {
     font-size: 62px;
     line-height: 62px;
